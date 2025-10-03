@@ -18,7 +18,7 @@ explaining the non-obvious bits.
 ## Built With
 
 - Best practices from 2025
-- Real error handling 
+- Real error handling
 - Documentation that doesn't assume you're psychic
 - Configuration that works out of the box
 
@@ -36,4 +36,4 @@ If this helped you ship faster, let me know. Makes my day.
 
 ---
 
-Built with ️ by Augustus Rivers at [Offlabel Design](https://offlabel.design)
+Built with  by Augustus Rivers at [Offlabel Design](https://offlabel.design)
